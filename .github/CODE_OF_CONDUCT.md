@@ -1,1 +1,2 @@
+<!-- foo -->
 the actual coc
